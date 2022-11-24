@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Enemy">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KYQACAAIACAAIAAgAQIIAIAAAACAAAAACAAgAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\EnemyScript\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewPlayer">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQQCAIIBCBAAAAABAAAACAAIABAAAAATAABAAAQBgg=</HashCode>
+      <FileName>Assets\Scripts\PlayerScripts\NewPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsObject" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAwAAAiAQiAAAEAAJAAJAAAAAAAAAAAAAAQAAEAICAI=</HashCode>
+      <FileName>Assets\Scripts\PhysicsObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gate">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnvironmentScripts\Gate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collectables">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Collectables.ItemType">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Collectables.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAgAAEAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Collectables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
